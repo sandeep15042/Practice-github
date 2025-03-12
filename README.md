@@ -1,5 +1,5 @@
 # Practice-github
-learn git and github<br>
+learn git andclea github<br>
 steps to create repositories:<br>
 1.go to profile click on your repositories<br>
 2.then click new then give repositorie name and something on description<br>
